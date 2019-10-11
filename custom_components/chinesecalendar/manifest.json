@@ -1,0 +1,8 @@
+{
+  "domain": "chinesecalendar",
+  "name": "chinesecalendar",
+  "documentation": "",
+  "requirements": ["chinesecalendar"],
+  "codeowners": [],
+  "dependencies": []
+}
