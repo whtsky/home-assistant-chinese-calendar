@@ -1,6 +1,7 @@
 {
   "domain": "chinesecalendar",
   "name": "chinesecalendar",
+  "version": "0.0.1",
   "documentation": "",
   "requirements": ["chinesecalendar"],
   "codeowners": [],
